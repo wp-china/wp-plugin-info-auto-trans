@@ -1,4 +1,4 @@
-# WP-China-Yes PSTS (Plugin Store Translate Script)
+# wp-plugin-info-auto-trans
 
 ## 介绍
 
