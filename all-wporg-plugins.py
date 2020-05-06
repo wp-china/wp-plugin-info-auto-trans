@@ -5,7 +5,7 @@ from requests_html import HTMLSession
 '''
 all-wporg-plugins.py
 
-本文件用于从 http://plugins.svn.wordpress.org 获取插件 slug，生成 all_plugins_urls.txt 文件。
+本文件用于从 http://plugins.svn.wordpress.org 获取插件 slug，生成 jsons.txt 文件。
 
 Author: _Wr_
 AuthorURL: https://wrsblog.cn
