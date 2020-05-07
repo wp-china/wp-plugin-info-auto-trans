@@ -1,8 +1,0 @@
-环境要求：
-
-Python 3+ 环境
-os 模块
-requests 模块
-requests_html 模块
-json 模块
-PyExecJs 模块

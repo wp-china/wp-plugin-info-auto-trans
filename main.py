@@ -11,10 +11,9 @@ Author: _Wr_
 AuthorURL: https://wrsblog.cn
 '''
 # 环境要求
-requirementFile = open("requirement.txt", encoding='UTF-8')
-requirement = requirementFile.read()
-print(requirement)
-input ("\n按下回车键以继续")
+startupFile = open("startup.txt")
+startup = startupFile.read()
+print(startup)
 # 运行 all-wporg-plugins.py
 print ("\n\nRunning all-wporg-plugins.py...")
 os.system("python3 all-wporg-plugins.py")
