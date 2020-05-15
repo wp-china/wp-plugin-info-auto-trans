@@ -12,8 +12,3 @@ requests 模块
 requests_html 模块
 json 模块
 PyExecJs 模块
-
-## 使用方法
-
-下载或者 Clone 本项目，进入程序目录，打开并运行 main.py 即可。
-程序运行完毕后将会在根目录下生成 json.txt 和 data 目录。
